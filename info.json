@@ -1,0 +1,16 @@
+{
+    "Name":"newcharrandomizer",		
+	"DisplayName":"New Character Randomizer", 
+	"Desc":"Improves chat UI for better user experience.",
+	"UIPackage": null, 
+	"Author": "VoxTech",
+	"GameVersion":0.99,	
+	"Version":1.000000,	
+	"Sort":"1",
+	"Tags": [
+		"Usability",
+		"ExcludeRealmsHeaven"
+	],
+	"IsInsideCreat": false,
+	"Flag": -422811078
+}
